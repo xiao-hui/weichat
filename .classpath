@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/jala/mavenlib/apache-maven-3.0.5/apache-maven-3.0.5/Repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" sourcepath="E:/jala/mavenlib/apache-maven-3.0.5/apache-maven-3.0.5/Repository/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="javax.servlet"/>
+			<attribute name="maven.artifactId" value="servlet-api"/>
+			<attribute name="maven.version" value="2.5"/>
+			<attribute name="maven.scope" value="provided"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/jala/mavenlib/apache-maven-3.0.5/apache-maven-3.0.5/Repository/dom4j/dom4j/1.1/dom4j-1.1.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="dom4j"/>
+			<attribute name="maven.artifactId" value="dom4j"/>
+			<attribute name="maven.version" value="1.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/jala/mavenlib/apache-maven-3.0.5/apache-maven-3.0.5/Repository/net/sf/json-lib/json-lib/2.3/json-lib-2.3-jdk15.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="net.sf.json-lib"/>
+			<attribute name="maven.artifactId" value="json-lib"/>
+			<attribute name="maven.version" value="2.3"/>
+			<attribute name="maven.classifier" value="jdk15"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/jala/mavenlib/apache-maven-3.0.5/apache-maven-3.0.5/Repository/org/apache/httpcomponents/httpcore/4.2.2/httpcore-4.2.2.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.httpcomponents"/>
+			<attribute name="maven.artifactId" value="httpcore"/>
+			<attribute name="maven.version" value="4.2.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/jala/mavenlib/httpcomponents-client-4.3.1-bin/lib/httpclient-4.3.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
